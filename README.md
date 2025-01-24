@@ -16,12 +16,13 @@
 <!-- Intro paragraph -->
 <p>
   <i>
-    I’m passionate about technology, innovation, and the ethical implications of new advancements. 
-    Currently, I’m developing my skills in programming, algorithms, and data analysis, 
+    I’m passionate about technology, innovation, and creativity!!
+    In a technical sense, I’m developing my skills in programming, aand data analysis, 
     with a particular interest in AI, Machine Learning, and Data Science. 
+    Having an IDM minor, I am also committed to expanding my knowledge in website development,
+    3D modeling, game development, and design. 
     I’m committed to continuous learning across various fields, and I enjoy expressing my creativity 
-    through every project I undertake. Collaboration is essential to me, and I’m looking forward to 
-    taking on larger-scale projects in the near future.
+    through every project I undertake.
   </i>
 </p>
 
