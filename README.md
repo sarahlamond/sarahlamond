@@ -17,12 +17,11 @@
 <p>
   <i>
     I’m passionate about technology, innovation, and creativity!!
-    In a technical sense, I’m developing my skills in programming, aand data analysis, 
+    In a technical sense, I’m developing my skills in programming, and data analysis, 
     with a particular interest in AI, Machine Learning, and Data Science. 
     Having an IDM minor, I am also committed to expanding my knowledge in website development,
     3D modeling, game development, and design. 
-    I’m committed to continuous learning across various fields, and I enjoy expressing my creativity 
-    through every project I undertake.
+    I wish to become a Product Manager in the future and use all my areas of expertise
   </i>
 </p>
 
