@@ -21,7 +21,6 @@
     with a particular interest in AI, Machine Learning, and Data Science. 
     Having an IDM minor, I am also committed to expanding my knowledge in website development,
     3D modeling, game development, and design. 
-    I wish to become a Product Manager in the future and use all my areas of expertise.
   </i>
 </p>
 
