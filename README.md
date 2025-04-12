@@ -18,9 +18,7 @@
   <i>
     I’m passionate about technology, innovation, and creativity!!
     In a technical sense, I’m developing my skills in programming, and data analysis, 
-    with a particular interest in AI, Machine Learning, and Data Science. 
-    Having an IDM minor, I am also committed to expanding my knowledge in website development,
-    3D modeling, game development, and design. 
+    with a particular interest in AI, Machine Learning, and Data Science.
   </i>
 </p>
 
